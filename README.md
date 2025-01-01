@@ -1,3 +1,10 @@
+Purpose:
+
+Freeze micropatch files so game would select Data ones
+
+
+
+Usage:
 Create a folder with following components for you game client:
 components = {
     'Steam': ['steam_api.dll', 'wotblitz.exe'],
