@@ -339,3 +339,5 @@ try:
     print(f"Removed {ufze_path}")
 except OSError as e:
     print(f"Error removing {ufze_path}: {e}")
+
+input("Press Enter to close")
